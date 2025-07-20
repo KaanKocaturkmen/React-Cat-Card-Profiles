@@ -17,7 +17,7 @@ This mini project was built to:
 - Use **object destructuring** in component parameters
 - Work with **lists** and the `.map()` method in React
 
-This is one of my **first projects** in React, and I'm sharing it now as part of documenting my learning journey.
+🗂️ I recently found this project on my hard drive and decided to upload it to GitHub as part of documenting my early learning journey in React.
 
 ## 🛠️ Technologies Used
 
