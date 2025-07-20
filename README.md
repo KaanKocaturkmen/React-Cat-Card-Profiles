@@ -5,6 +5,10 @@ The app displays cat profile cards, each showing a cat's name, image, email, and
 
 ## 🚀 Project Overview
 
+<img width="403" height="456" alt="000945" src="https://github.com/user-attachments/assets/800c5bd8-fe84-449a-a508-1588a9afaa6c" />
+
+
+
 > A small component-based application that renders multiple cat profile cards using props and object destructuring.
 
 Each profile card is built using a reusable `Card` component. The data is imported and mapped over to dynamically generate the cards.
